@@ -1,0 +1,55 @@
+[{
+    "id": 1,
+    "name": "Madeline",
+    "position": "Owner",
+    "team": "Management",
+    "phone": "512-468-2933",
+    "email": "nanaem808@icloud.com",
+    "birthday": "08/08/1991"
+  },
+  {
+    "id": 2,
+    "name": "Adeline",
+    "position": "Assistant",
+    "team": "Management",
+    "phone": "512-469-2933",
+    "email": "nanaem808@mac.com",
+    "birthday": "08/08/1992"
+  },
+  {
+    "id": 3,
+    "name": "Madeline",
+    "position": "Owner",
+    "team": "Management",
+    "phone": "512-468-2933",
+    "email": "nanaem808@icloud.com",
+    "birthday": "08/08/1991"
+  },
+  {
+    "id": 4,
+    "name": "eline",
+    "position": "Employee",
+    "team": "Team",
+    "phone": "512-433-2933",
+    "email": "nanaem808@icloud.com",
+    "birthday": "08/07/1991"
+  },
+  {
+    "id": 5,
+    "name": "Madeline",
+    "position": "Employee",
+    "team": "Team",
+    "phone": "512-468-2933",
+    "email": "nanaem808@icloud.com",
+    "birthday": "08/08/1991"
+  },
+  {
+    "id": 6,
+    "name": "Line",
+    "position": "Owner",
+    "team": "Management",
+    "phone": "512-468-2933",
+    "email": "nanaem808@icloud.com",
+    "birthday": "08/08/1991"
+  }
+]
